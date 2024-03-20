@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Владимир Казаков](https://up.htmlacademy.ru/nodejs-2/6/user/2419681).
-* Наставник: `Евгений Наумов`.
+* Наставник: [Евгений Наумов](https://htmlacademy.ru/profile/naumov_evg).
 
 ---
 
